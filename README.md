@@ -4,8 +4,7 @@ computer 🖥️
 
 # The end goal
 
-![Sudo apt-get in the bin]()
-<img src="https://github.com/SonOfCheevap/SonOfCheevap/assets/108093325/c74c8443-30f9-4b9b-a720-6912378735fe" width="300" height = "300">
+<img src="https://github.com/SonOfCheevap/SonOfCheevap/assets/108093325/c74c8443-30f9-4b9b-a720-6912378735fe" width="300" height = "200">
 # How 2 make good pcb
 1. ground pcb
 2. ground pcb more
