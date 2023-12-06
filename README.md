@@ -1,16 +1,14 @@
-# Sylvester’s Knowledge
-
 computer 🖥️
 
 [The best website on the whole entire internet](https://bigpierogi.net/)
 
 # The end goal
 
-![Sudo apt-get in the bin](https://github.com/SonOfCheevap/SonOfCheevap/assets/108093325/c74c8443-30f9-4b9b-a720-6912378735fe)
-
+![Sudo apt-get in the bin]()
+<img src="https://github.com/SonOfCheevap/SonOfCheevap/assets/108093325/c74c8443-30f9-4b9b-a720-6912378735fe" width="300" height = "300">
 # How 2 make good pcb
 1. ground pcb
-2. ground pcb
+2. ground pcb more
 3. add capybara
 4. ????????
 5. profit
