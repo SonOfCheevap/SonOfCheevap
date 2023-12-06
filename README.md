@@ -290,7 +290,7 @@ Note: **I’m not a expert**, these are just things i’ve learned in my time ma
 
 # The end goal
 
-![Sudo apt-get in the bin](Sylvester%E2%80%99s%20Knowledge%2057d5770106e34c32a90211a852cee3c9/Untitled.png)
+![Sudo apt-get in the bin](https://github.com/SonOfCheevap/SonOfCheevap/assets/108093325/c74c8443-30f9-4b9b-a720-6912378735fe)
 
 Sudo apt-get in the bin
 <!--
