@@ -1,7 +1,5 @@
 computer 🖥️
 
-[The best website on the whole entire internet](https://bigpierogi.net/)
-
 ## How 2 make good pcb
 1. ground pcb
 2. ground pcb more
